@@ -1,3 +1,7 @@
+{{floriane.esson@gmail.com}}
+
+{{https://share.vidyard.com/watch/GD7aVnSzBhSufShvufY1YR?}}
+
 # Projet - Real or Not? NLP with Disaster Tweets
 
 Project description
